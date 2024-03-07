@@ -16,10 +16,11 @@
 
             <div class="col-md-12">
                     <div class="text-center">
-                        <a href="./"><img class="img-fluid" src="{{asset('ui/frontend/img/me.jpg')}}"></a>
-                        <h2> Md Shahadat Kabir </h2>
+                        {{-- <a href="./"><img class="img-fluid" src="{{asset('ui/frontend/img/me.jpg')}}"></a> --}}
+                        {{-- <h2> Md Shahadat Kabir </h2> --}}
                         <h2>PHP with Laravel Framework</h2>
-                        <h2>Batch-12</h2>
+                        <h2>CRUD Operation</h2>
+                        {{-- <h2>Batch-12</h2> --}}
                         </div>
                           </div>
         </div>
