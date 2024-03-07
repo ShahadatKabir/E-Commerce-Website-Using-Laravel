@@ -47,8 +47,10 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the [MIT License](LICENSE).
 
 <h1 align='center'>Index</h1> 
-![image](https://github.com/ShahadatKabir/E-Commerce-Website-Using-Laravel/master/public/ui/frontend/img/index.png)
+
+![index](https://github.com/ShahadatKabir/E-Commerce-Website-Using-Laravel/assets/60102939/7ec0e85c-dcca-43a4-a04b-2d4036937170)
 
 <h1 align='center'>Admin Panel</h1> 
-![image](https://github.com/ShahadatKabir/E-Commerce-Website-Using-Laravel/master/public/ui/frontend/img/admin.png)
+
+![admin](https://github.com/ShahadatKabir/E-Commerce-Website-Using-Laravel/assets/60102939/a40b0379-65c7-43b0-9a96-059cfc7b080b)
 
